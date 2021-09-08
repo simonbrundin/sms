@@ -1,0 +1,25 @@
+{
+  "name": "sms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonbrundin/sms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonbrundin/sms/issues"
+  },
+  "homepage": "https://github.com/simonbrundin/sms#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "knex": "^0.95.11",
+    "osa-imessage": "^2.4.2",
+    "pg": "^8.7.1"
+  }
+}
